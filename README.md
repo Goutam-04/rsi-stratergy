@@ -1,3 +1,3 @@
 # rsi-stratergy
--This is fully in developing stage
+- This fully in development stage
 
